@@ -1,0 +1,24 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Tileset.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "D:/_APUNTES_VIDEOJUEGOS/_MASTER/_INTRODUCCIÓN A C++/VampireSurvivors - DavidVelezRebollo/data",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "mapa-project.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

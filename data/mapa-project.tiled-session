@@ -1,0 +1,32 @@
+{
+    "activeFile": "mapa.tmx",
+    "expandedProjectPaths": [
+        "Levels",
+        "."
+    ],
+    "fileStates": {
+        "Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 966,
+                "y": 650
+            }
+        },
+        "mapa.tmx#Tileset": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "mapa.tmx",
+        "Tileset.tsx"
+    ],
+    "recentFiles": [
+        "Tileset.tsx",
+        "mapa.tmx"
+    ]
+}
