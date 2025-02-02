@@ -2,9 +2,9 @@
 
 ## Controls
 
-Right Click: Select buttons.
-W, A, S, D: Move the character.
-Left Click: Shoot.
+- Right Click: Select buttons.
+- W, A, S, D: Move the character.
+- Left Click: Shoot.
 
 ## Objective
 
